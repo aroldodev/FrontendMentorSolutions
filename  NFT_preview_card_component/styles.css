@@ -1,0 +1,36 @@
+body {
+    background-color: #0d192b;
+    box-sizing: border-box;
+    color: #000;
+    font-family: Outfit,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    align-items: center;
+    box-sizing: border-box;
+    color: #14253d;
+    display: flex;
+    font-family: Outfit,sans-serif;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+    padding: 0;
+}
+
+.card {
+    background-color: #14253d;
+    border-radius: 14px;
+    border-radius: 14px;
+    box-shadow: #0c1729 0 40px 20px 20px;
+    box-sizing: border-box;
+    color: #0e192b;
+    display: flex;
+    flex-direction: column;
+    font-family: Outfit,sans-serif;
+    height: 596px;
+    margin: 0;
+    padding: 24px;
+    width: 350px;
+}
